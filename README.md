@@ -24,8 +24,8 @@ Cooking Ninjas is a web application where users can manage their recipe lists. D
 
 ![Screenshot 1](screenshots/ss-1.png)
 ![Screenshot 2](screenshots/ss-2.png)
-![Screenshot 2](screenshots/ss-3.png)
 ![Screenshot 2](screenshots/ss-4.png)
+![Screenshot 2](screenshots/ss-3.png)
 
 # Getting Started with Create React App
 
